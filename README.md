@@ -1,9 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-```html
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0D1117,50:123B52,100:16A085&text=THIAGO%20GON%C3%87ALVES&fontColor=FFFFFF&fontSize=34&fontAlignY=40&desc=ENGINEERING%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20SAAS&descSize=14&descAlignY=65&animation=fadeIn" alt="Thiago Gonçalves — Engineering, Software and SaaS" />
-```
 
 <a href="https://github.com/eprodevthiago">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Engineering+real-world+solutions+with+software;Industrial+SaaS+%7C+Full-Stack+Development;Computer+Vision+%7C+Application+Security" alt="Apresentação animada" />
